@@ -19,7 +19,6 @@ usage : python3 ddoser.py [-s] [-p] [-t]
 * * *
 
 # Installation
-you need to install python on server 
 git clone https://github.com/prs1378/DDOS ; cd DDOS ; python3 ddoser.py -s *[SITE IP]*
 * * *
 
