@@ -2,10 +2,6 @@
 
 **An advanced and powerful ddoser for you :)
 
-
-* * *
-
-## Commands
 * * *
 It is just for server testing script. Your ip is visible. 
 usage : python3 ddoser.py [-s] [-p] [-t]
