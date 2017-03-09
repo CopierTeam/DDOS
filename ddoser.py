@@ -128,7 +128,7 @@ if __name__ == '__main__':
 	if len(sys.argv) < 2:
 		usage()
 	get_parameters()
-	print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+	print("\n\n\n\n\n\n\n\n\n\n\n")
 	print("\033[92metelaat vared shod \nhost:",host," \nport: ",str(port)," \npower:",str(thr),"\033[0m\n\n\n\n\n")
 	print("\033[94mMade by @Prs1378 :) Telegram channel : @EPic_MC @NortTeam \033[0m")
 	user_agent()
